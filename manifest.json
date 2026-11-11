@@ -1,0 +1,18 @@
+{
+  "name": "CRM - Computers & IT Solutions",
+  "short_name": "CRM",
+  "description": "Customer, sales, service, RMA, and inventory CRM for Computer and IT businesses",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#102a2e",
+  "theme_color": "#0f766e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230f766e'/%3E%3Cpath d='M120 180h272v160H120z' fill='none' stroke='%23ffffff' stroke-width='32' rx='16'/%3E%3Cpath d='M210 390h92M256 340v50' stroke='%23ffffff' stroke-width='32' stroke-linecap='round'/%3E%3Ccircle cx='256' cy='260' r='32' fill='%23f59e0b'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
